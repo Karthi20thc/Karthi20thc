@@ -1,3 +1,4 @@
+- Im Self-taught Web Programmer
 - 👋 Hi, I’m @Karthik
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Mern stack
