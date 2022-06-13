@@ -1,5 +1,6 @@
-- Im Self-taught Web Programmer
 - 👋 Hi, I’m @Karthik
+- my portfolio -> https://karthik-portfolio-94.netlify.app/
+- Im Self-taught Web Programmer
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Mern stack
 
